@@ -1,0 +1,21 @@
+{
+  "name": "gk",
+  "version": "1.0.0",
+  "description": "gk assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jest.config.js --colors --noStackTrace --detectOpenHandles --runInBand"
+  },
+  "author": "Thapelo",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^81.0.0",
+    "geckodriver": "^1.19.1",
+    "install": "^0.13.0",
+    "jest": "^26.0.1",
+    "jest-circus": "latest",
+    "jest-expect-message": "latest",
+    "nightwatch": "^1.3.4",
+    "node-fetch": "^2.6.0"
+  }
+}
