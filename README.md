@@ -14,6 +14,7 @@ npm i nightwatch -g
  nightwatch web-tests/webtest.js
 ```
 ### To run API tests in folder api-tests
+api from http://dummy.restapiexample.com/
  ```
  npm run test 
 ```
