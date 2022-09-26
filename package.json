@@ -15,7 +15,7 @@
     "jest": "^26.0.1",
     "jest-circus": "latest",
     "jest-expect-message": "latest",
-    "nightwatch": "^1.3.4",
+    "nightwatch": "^1.7.13",
     "node-fetch": "^2.6.0"
   }
 }
